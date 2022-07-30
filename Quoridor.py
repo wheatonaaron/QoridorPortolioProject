@@ -1,4 +1,3 @@
-# CS 162
 # Aaron Wheaton
 # 8/6/2021
 # This is a python replication of the game Quoridor
